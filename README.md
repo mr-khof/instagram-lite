@@ -1,4 +1,4 @@
-# instagram-lite
+# instagram lite
 
 Use instagram application without any filtering.
 * Download Reels, Posts and stroies from the app
